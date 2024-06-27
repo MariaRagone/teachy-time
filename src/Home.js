@@ -4,7 +4,8 @@ const Home = () => {
   return (
     <main>
     <button>Week 1</button>
-    
+    <button>Week 2</button>
+ 
     </main>
   )
 }
