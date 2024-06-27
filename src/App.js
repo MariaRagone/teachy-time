@@ -5,6 +5,7 @@ import Home from './Home';
 import Missing from './Missing';
 import Nav from './Nav';
 import Week1 from './Week1';
+import Week2 from './Week2';
 import { BrowserRouter as Router, Route, Routes, useHistory } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
@@ -20,13 +21,14 @@ const App = () => {
 
   }
   return (
-    <div>
+    <div className='App'>
     <Header title = "Teachy Time"/>
-    <Nav search={search} setSearch={setSearch} />
     <Router>
+    <Nav /> 
       <Routes>
         <Route exact path='/' element={<Home />} />
         <Route path='/week1' element={<Week1 />} />
+        <Route path='/week2' element={<Week2 />} />
         <Route path='/about' element={<About/>}/>
         <Route path='*' element={<Missing />} />
       </Routes>

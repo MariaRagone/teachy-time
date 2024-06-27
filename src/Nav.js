@@ -1,13 +1,18 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+import Week1 from './Week1';
+
+
 const Nav = () => {
   return (
-    <nav className='Nav'>
-    <h1>Nav Bar</h1>
+    <main className='Nav'>
+    
     <ul>
         <li><Link to="/">Home</Link></li>
+        <li><Link to="/about">About</Link></li>
+
     </ul>
-    </nav>
+    </main>
   )
 }
 
