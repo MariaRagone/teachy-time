@@ -6,6 +6,9 @@ import Missing from './Missing';
 import Nav from './Nav';
 import Week1 from './Week1';
 import Week2 from './Week2';
+import MissingAssignments from './MissingAssignments';
+import DiscussionGrading from './DiscussionGrading';
+import Penalties from './Penalties';
 import { BrowserRouter as Router, Route, Routes, useHistory } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
@@ -27,8 +30,11 @@ const App = () => {
     <Nav /> 
       <Routes>
         <Route exact path='/' element={<Home />} />
+        <Route exact path='/missingassignments' element={<MissingAssignments />} />
+        <Route exact path='/penalties' element={<Penalties />} />
         <Route path='/week1' element={<Week1 />} />
         <Route path='/week2' element={<Week2 />} />
+        <Route path='/discussiongrading' element={<DiscussionGrading/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='*' element={<Missing />} />
       </Routes>
