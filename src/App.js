@@ -10,7 +10,7 @@ import { useState, useEffect } from 'react';
 const App = () => {
   return (
     <div>
-      <Header />
+      <Header title = "Teachy Time"/>
       <Nav />
       <Router>
         <Routes>
