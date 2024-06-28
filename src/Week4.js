@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Week1 = () => {
+const Week4 = () => {
   return (
     <main className='Weeks'>
     Week 2
@@ -9,4 +9,4 @@ const Week1 = () => {
   )
 }
 
-export default Week1
+export default Week4

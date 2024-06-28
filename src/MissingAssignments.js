@@ -3,7 +3,7 @@ import React from 'react'
 const MissingAssignments = () => {
   return (
     <article className='Weeks'>
-<b>Missing Assignments</b><br></br><br></br>
+<h1>Missing Assignments</h1><br></br><br></br>
 
 Week 7 Assignments<br></br>
 Hi Jacob, <br></br>
