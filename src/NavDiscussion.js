@@ -5,6 +5,7 @@ const NavDiscussion = () => {
   return (
     <main className='Nav'>
     <ul>
+        <li>Discussion Boards:</li>
         <li><Link to="/DiscussionBoard1">D1</Link></li>
         <li><Link to="/DiscussionBoard2">D2</Link></li>
         <li><Link to="/DiscussionBoard3">D3</Link></li>
