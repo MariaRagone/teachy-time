@@ -22,7 +22,7 @@ import DiscussionBoard2 from './DiscussionBoard2';
 import DiscussionBoard3 from './DiscussionBoard3.js';
 import DiscussionBoard4 from './DiscussionBoard4';
 import DiscussionBoard5 from './DiscussionBoard5';
-import DiscussionBoard6 from './DiscussionBoard6.js/index.js';
+import DiscussionBoard6 from './DiscussionBoard6';
 import DiscussionBoard7 from './DiscussionBoard7';
 import DiscussionBoard8 from './DiscussionBoard8';
 import { BrowserRouter as Router, Route, Routes, useHistory } from 'react-router-dom';
