@@ -4,7 +4,7 @@ const Penalties = () => {
   return (
     <article className='Weeks'>
 <h1>Late Penalty</h1><br></br>
-There is 10% off each day later per the SDI late policy. Please remember assignments are due every Sunday.<br></br><br></br>
+There is 10% off each day later per the SDI late policy. Please remember assignments are due every Sunday.<br></br>C
 
 <h1>Similarity Report</h1><br></br>
 

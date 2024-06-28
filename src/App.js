@@ -4,6 +4,8 @@ import Header from './Header';
 import Home from './Home';
 import Missing from './Missing';
 import Nav from './Nav';
+import NavDiscussion from './NavDiscussion';
+import NavWeeks from './NavWeeks';
 import Week1 from './Week1';
 import Week2 from './Week2';
 import Week3 from './Week3';
@@ -17,13 +19,12 @@ import DiscussionGrading from './DiscussionGrading';
 import Penalties from './Penalties';
 import DiscussionBoard1 from './DiscussionBoard1';
 import DiscussionBoard2 from './DiscussionBoard2';
-import DiscussionBoard3 from './DiscussionBoard3';
+import DiscussionBoard3 from './DiscussionBoard3.js';
 import DiscussionBoard4 from './DiscussionBoard4';
 import DiscussionBoard5 from './DiscussionBoard5';
-import DiscussionBoard6 from './DiscussionBoard6';
+import DiscussionBoard6 from './DiscussionBoard6.js/index.js';
 import DiscussionBoard7 from './DiscussionBoard7';
 import DiscussionBoard8 from './DiscussionBoard8';
-import NavDiscussion from './NavDiscussion';
 import { BrowserRouter as Router, Route, Routes, useHistory } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
@@ -44,6 +45,7 @@ const App = () => {
     <Router>
     <Nav /> 
     <NavDiscussion />
+    <NavWeeks />
       <Routes>
         <Route exact path='/' element={<Home />} />
         <Route exact path='/missingassignments' element={<MissingAssignments />} />

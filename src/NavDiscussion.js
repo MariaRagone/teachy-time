@@ -1,12 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import Week1 from './Week1';
-
 
 const NavDiscussion = () => {
   return (
     <main className='Nav'>
-    
     <ul>
         <li><Link to="/DiscussionBoard1">D1</Link></li>
         <li><Link to="/DiscussionBoard2">D2</Link></li>
@@ -16,8 +13,6 @@ const NavDiscussion = () => {
         <li><Link to="/DiscussionBoard6">D6</Link></li>
         <li><Link to="/DiscussionBoard7">D7</Link></li>
         <li><Link to="/DiscussionBoard8">D8</Link></li>
-
-
     </ul>
     </main>
   )
