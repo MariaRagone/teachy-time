@@ -11,7 +11,7 @@ const Nav = () => {
         <li><Link to="/">Home</Link></li>
         <li><Link to="/missingassignments">Missing Assignments</Link></li>
         <li><Link to="/penalties">Penalties</Link></li>
-        <li><Link to="/discussionGrading">Discussion Grading</Link></li>
+        <li><Link to="/AIPrompts">AI</Link></li>
         <li><a href="https://classroom.sdi.edu/courses/5437/modules">Classroom</a></li>
         <li><Link to="/about">About</Link></li>
 

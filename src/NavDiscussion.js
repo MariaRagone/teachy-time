@@ -14,6 +14,7 @@ const NavDiscussion = () => {
         <li><Link to="/DiscussionBoard6">D6</Link></li>
         <li><Link to="/DiscussionBoard7">D7</Link></li>
         <li><Link to="/DiscussionBoard8">D8</Link></li>
+        <li><Link to="/DiscussionGrading">Grading</Link></li>
     </ul>
     </main>
   )

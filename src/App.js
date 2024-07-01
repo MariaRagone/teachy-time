@@ -14,9 +14,9 @@ import Week5 from './Week5';
 import Week6 from './Week6';
 import Week7 from './Week7';
 import Week8 from './Week8';
+import Penalties from './Penalties';
 import MissingAssignments from './MissingAssignments';
 import DiscussionGrading from './DiscussionGrading';
-import Penalties from './Penalties';
 import DiscussionBoard1 from './DiscussionBoard1';
 import DiscussionBoard2 from './DiscussionBoard2';
 import DiscussionBoard3 from './DiscussionBoard3.js';
@@ -25,6 +25,7 @@ import DiscussionBoard5 from './DiscussionBoard5';
 import DiscussionBoard6 from './DiscussionBoard6';
 import DiscussionBoard7 from './DiscussionBoard7';
 import DiscussionBoard8 from './DiscussionBoard8';
+import AIPrompts from './AIPrompts';
 import { BrowserRouter as Router, Route, Routes, useHistory } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
@@ -67,6 +68,7 @@ const App = () => {
         <Route path='/DiscussionBoard6' element={<DiscussionBoard6/>}/>
         <Route path='/DiscussionBoard7' element={<DiscussionBoard7/>}/>
         <Route path='/DiscussionBoard8' element={<DiscussionBoard8/>}/>
+        <Route path='/AIPrompts' element={<AIPrompts/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='*' element={<Missing />} />
       </Routes>
