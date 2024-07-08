@@ -34,6 +34,16 @@ You are missing the 2 comments on your classmates' posts so this is the reason f
 Thanks,<br></br>
 Maria<br></br><br></br>
 
+Hi Gregory,<br></br>
+
+Thank you for your original post and your comment on the week 3 discussion board. Your posts added value to the discussion and continued the conversation. But you are missing the 2nd comment so this is the reason for the reduction in points. Please remember comments are due every Sunday. <br></br><br></br>
+
+Thanks,<br></br>
+Maria<br></br><br></br>
+
+
+
+The reduction in 10 points is due to your original post length. The assignment required a minimum of 250 words, but yours is only 170. Expanding your post will give you more space to develop your ideas further.<br></br><br></br>
 
 
 You are missing the original post so this is the reason for the reduction in points. Please remember they are due every Wednesday and can be submitted late until Sunday for a 10% penalty for each day late. <br></br><br></br>
