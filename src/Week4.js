@@ -34,7 +34,7 @@ There is also a late penalty of 10% per day in accordance with the SDI late poli
 
 Great job highlighting the importance of checker patterns on a firearm for improving its aesthetics and for enhancing the shooter's grip and control.<br></br><br></br>
 
-It is hard to tell from the small photo but it seems like it could be American or English.<br></br><br></br>
+You have also highlighted the importance of checker patterns on a firearm for improving and enhancing the shooter's grip and control but can also be for aesthetics. Although you describe the different types of checkering and how to use a decal, you didn't provide any photos which was part of the assignment and the reason for the deduction in points. <br></br><br></br>
 
 Additionally, you have pointed out the distinction between different types of checker patterns, particularly the style in the photo. It is hard to tell from the small photo but it seems like it could be American or English.<br></br><br></br>
 
