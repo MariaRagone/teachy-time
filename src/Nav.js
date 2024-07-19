@@ -13,7 +13,7 @@ const Nav = () => {
         <li><Link to="/penalties">Penalties</Link></li>
         <li><Link to="/AIPrompts">AI</Link></li>
         <li><a href="https://classroom.sdi.edu/courses/6166/gradebook">Classroom 1</a></li>
-        <li><a href="https://classroom.sdi.edu/courses/6226/gradebook">Classroom 1</a></li>
+        <li><a href="https://classroom.sdi.edu/courses/6226/gradebook">Classroom 2</a></li>
         <li><Link to="/about">About</Link></li>
 
 
