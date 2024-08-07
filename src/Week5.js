@@ -5,11 +5,13 @@ const Week5 = () => {
     <main className='Weeks'>
    <h1>Week 5</h1><br></br>
 <h1>Assignment 1</h1><br></br>
+<b>Instructions:</b><br></br>
+Another option a gunsmith has for making a buttplate is to create an adjustable buttplate. What would be the purpose of creating one that is adjustable and would you use it? Why or why not?<br></br><br></br>
 
 
-Hi Aaron,<br></br>
+Hi Aaron,<br></br><br></br>
 
-Thanks for your submission for this assignment.<br></br><br></br>
+Thanks for your work for this assignment.<br></br><br></br>
 
 Yes, the preferred material for butt plates is steel for its ability to take recoil and for its strength and durability.<br></br><br></br>
 
