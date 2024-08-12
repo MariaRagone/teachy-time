@@ -15,7 +15,7 @@ Great job summarizing an essential list of tools needed for a customizing projec
 
 There are so many tools that will come in handy that aren't really considered essential but will make your life a whole lot easier for this project!<br></br><br></br>
 
-As you said, I'd also recommend a suitable work area like a workbench as well as a vice to hold your work. Those are two things often overlooked as essential 'tools' and I feel that these are absolutely necessary. Good lighting is also a great idea which is usually not considered!<br></br><br></br>
+As you said, I'd also recommend a suitable work area like a workbench as well as a vise to hold your work. Those are two things often overlooked as essential 'tools' and I feel that these are absolutely necessary. Good lighting is also a great idea which is usually not considered!<br></br><br></br>
 
 Don't forget the safety equipment as well like safety glasses and ear plugs when necessary. Other tools that could be helpful are precision marking/measuring tools like digital calipers, a small level, a small L-square, and a drilling guide if you don't have a drill press.<br></br><br></br>
 

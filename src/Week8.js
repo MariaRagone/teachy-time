@@ -7,9 +7,12 @@ const Week8 = () => {
 <b>Lab</b><br></br><br></br>
 Hi Matthew,<br></br>
 
+Part 1 - Submit at least ten (10) hi-resolution images: The function check video and photos look good. Thank you.<br></br><br></br><br></br>
+
+
 Part 1 - Submit at least ten (10) hi-resolution images: You did not provide a video of the function check of the lock components so this is the reason for the 6 point reduction. All other photos look good.<br></br><br></br>
 
-Part 2 - Narrate the procedure: Thanks for narrating your process for working on your kit in this class. Inletting is one of the most challenging part for most woodworkers because it is easy to make a mistake or remove too much wood. Taking your time is key and allowing enough time for a the project and starting as early as possible is helpful. Measuring andd rilling is also a challenging task for students. Everything came out great though. This is all a learning experience and you need to go through the process to learn and get a lot of practice in!<br></br><br></br>
+Part 2 - Narrate the procedure: Thanks for narrating your process for working on your kit in this class. Inletting is definitely a skill that you can use with modern firearms, but it can be one of the most challenging parts for most woodworkers because it is easy to make a mistake or remove too much wood. Taking your time is key and allowing enough time for a the project and starting as early as possible is helpful. Measuring and drilling is also a challenging task for students. Everything came out great though. This is all a learning experience and you need to go through the process to learn and get a lot of practice in!<br></br><br></br>
 
 
 Part 3 - Evaluate your learning experience: I'm glad to hear that you have learned a lot from this course! It is a great sense of accomplishment to see your own finished work. And for me, I am especially proud of projects that I can use or display.<br></br><br></br>
@@ -18,6 +21,26 @@ Part 3 - Evaluate your learning experience: I'm glad to hear that you have learn
 Hopefully, you will get the chance to finish your stock and use the barrel bedding. I'm glad that you feel comfortable with the skills you've learned and applied so far.<br></br><br></br>
 
 It has been great having you as part of this course.<br></br><br></br>
+
+Thanks,<br></br>
+Maria<br></br><br></br>
+
+
+
+Hi Michael,<br></br><br></br>
+
+**Part 1 - Submit at least ten (10) hi-resolution images:**<br></br>
+You did not provide a video of the function check of the lock components, which is why there is a 6-point reduction. All other photos look good.<br></br><br></br>
+
+**Part 2 - Narrate the procedure:**<br></br>
+Great job on narrating your build procedure for working on your kit in this class. Inletting is one of the most challenging part for most woodworkers because it is easy to make a mistake or remove too much wood. Taking your time is key and allowing enough time for a the project and starting as early as possible is helpful. Measuring and drilling is also a challenging task for students. Everything came out great though. This is all a learning experience and you need to go through the process to learn and get a lot of practice in!<br></br><br></br>
+
+**Part 3 - Evaluate your learning experience:**<br></br>
+This part of the assignment is mostly missing as you did not discuss what procedures you practiced that you will be able to apply to modern firearms. You also did not identify and describe at least one procedure would you like to apply to further customize or improve upon your muzzleloader. Consider the finish, function, and accuracy of the weapon.<br></br><br></br>
+
+There is also a point deducted due to length. The essay was supposed to be at least 500 words, and yours was 427.<br></br><br></br>
+
+I hope you get the chance to finish your stock. It has been great having you in this course.<br></br><br></br>
 
 Thanks,<br></br>
 Maria<br></br><br></br>
