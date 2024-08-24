@@ -5,6 +5,14 @@ const DiscussionGrading = () => {
     <article className='Weeks'>
 <h1>Discussion Board Feedback</h1><br></br>
 
+<h2>Week 2</h2><br></br>
+
+Hi Marshall,<br></br><br></br>
+
+Thanks for your active participation in the Week 2 discussion board. You did not thoroughly address all the prompt questions, specifically "How does a professional stockmaker establish these measurements?"  So this is the reason for the reduction in points. But, your original post and the two insightful comments added a lot of value to the conversation.<br></br><br></br>
+
+Thanks,<br></br>
+Maria<br></br><br></br>
 
 Hi Matthew,<br></br>
 
@@ -50,7 +58,10 @@ You are missing the original post so this is the reason for the reduction in poi
 
 
 Your comment on a classmate's post is quite brief, which is why points were deducted. To enhance your posts, remember to evaluate any similarities or differences, offer insights into the respondents' observations, or ask questions to further the discussion. Adding more depth will enrich the value of your contributions.
-    </article>
+    
+
+
+</article>
   )
 }
 
