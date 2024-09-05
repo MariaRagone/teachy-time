@@ -40,9 +40,28 @@ Additionally, you have pointed out the distinction between different types of ch
 
 What type of checkering, if any, would you add to your stock?<br></br><br></br>
 
-
 Thanks,<br></br>
 Maria<br></br><br></br>
+
+
+
+Hi Jonathon,<br></br><br></br> 
+
+Your essay provides clear and concise instructions on how to checker a wooden stock using a decal pattern, and you’ve done an excellent job laying out the steps in an easy-to-follow manner. Please remember to include the page number when you cite your references within the paragraph text. <br></br><br></br> 
+
+I appreciate how you highlighted the dual purpose of checkering, improving both the aesthetics of the firearm and enhancing the shooter’s grip and control. This demonstrates a solid understanding of the functional and visual importance of this technique in gunsmithing.<br></br><br></br> 
+
+Your description of the English style in the photo was incorrect. I can tell because the peaks of English checkering are flat and smooth. The peaks in this photo are pointed which indicates that it is American checkering. Take a look at the first few pages of Chapter 4 in the text book where it shows some images and explains the differences. To help you remember this, the Americas have more taller and extensive mountain ranges than Europe, thus the raised peaks on American checkering. <br></br><br></br> 
+
+I’d be curious to hear more about your personal preferences, what type of checkering, if any, would you add to your own stock? Do you lean toward a traditional style, or would you experiment with something more modern or unique?<br></br><br></br> 
+
+Overall, your essay was informative and well thought out. Keep up the great work!<br></br><br></br> 
+
+Thanks,<br></br> 
+Maria<br></br><br></br> 
+
+
+
 
 
 <h1>Week 4 Lab</h1>
@@ -61,6 +80,22 @@ Due to the delays with shipment of the kit I am not deducting points for this th
 
 Thanks,<br></br>
 Maria   <br></br><br></br> 
+
+
+Hi Jonathon,<br></br><br></br> 
+
+Your essay provides clear and concise instructions on how to checker a wooden stock using a decal pattern, and you’ve done an excellent job laying out the steps in an easy-to-follow manner. Please remember to include the page number when you cite your references within the paragraph text. <br></br><br></br> 
+
+I appreciate how you highlighted the dual purpose of checkering, improving both the aesthetics of the firearm and enhancing the shooter’s grip and control. This demonstrates a solid understanding of the functional and visual importance of this technique in gunsmithing.<br></br><br></br> 
+
+Your description of the English style in the photo was incorrect. I can tell because the peaks of English checkering are flat and smooth. The peaks in this photo are pointed which indicates that it is American checkering. Take a look at the first few pages of Chapter 4 in the text book where it shows some images and explains the differences. To help you remember this, the Americas have more taller and extensive mountain ranges than Europe, thus the raised peaks on American checkering. <br></br><br></br> 
+
+I’d be curious to hear more about your personal preferences, what type of checkering, if any, would you add to your own stock? Do you lean toward a traditional style, or would you experiment with something more modern or unique?<br></br><br></br> 
+
+Overall, your essay was informative and well thought out. Keep up the great work!<br></br><br></br> 
+
+Thanks,<br></br> 
+Maria<br></br><br></br> 
     </main>
   )
 }
