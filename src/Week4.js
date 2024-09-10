@@ -44,7 +44,6 @@ Thanks,<br></br>
 Maria<br></br><br></br>
 
 
-
 Hi Jonathon,<br></br><br></br> 
 
 Your essay provides clear and concise instructions on how to checker a wooden stock using a decal pattern, and you’ve done an excellent job laying out the steps in an easy-to-follow manner. Please remember to include the page number when you cite your references within the paragraph text. <br></br><br></br> 
@@ -54,7 +53,7 @@ I appreciate how you highlighted the dual purpose of checkering, improving both 
 Your description of the English style in the photo was incorrect. I can tell because the peaks of English checkering are flat and smooth. The peaks in this photo are pointed which indicates that it is American checkering. Take a look at the first few pages of Chapter 4 in the text book where it shows some images and explains the differences. To help you remember this, the Americas have more taller and extensive mountain ranges than Europe, thus the raised peaks on American checkering. <br></br><br></br> 
 
 I’d be curious to hear more about your personal preferences, what type of checkering, if any, would you add to your own stock? Do you lean toward a traditional style, or would you experiment with something more modern or unique?<br></br><br></br> 
-
+    
 Overall, your essay was informative and well thought out. Keep up the great work!<br></br><br></br> 
 
 Thanks,<br></br> 
