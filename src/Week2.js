@@ -5,6 +5,23 @@ const Week1 = () => {
     <article className='Weeks'>
 
       <h1>Week 2</h1>
+
+      <h1>Assignment 1</h1>
+
+      Hi Michael, <br></br>
+
+You made some great points about how the firearm will be used. Safety is also of huge importance, so you could also consider a strong stock and recoil pad to absorb the recoil keeping it safer for the user and avoiding damage to the gun. If the purpose is to be a showpiece hanging on your wall then any type of wood could be used for pure aesthetics.<br></br>
+
+All of the factors are indeed necessary to design the stock in order to maximize the comfort and usability of the shooter. After planning for the gun's purpose, caliber, and recoil, its great that you thought about taking into account the user's comfort before beginning to design the stock. So the measurements are important and consider some who is smaller, younger or just learning.<br></br>
+
+You submitted a well-formated and well-written essay.
+<br></br>
+There is 10% off each day later per the SDI late policy. Please remember assignments are due every Sunday.<br></br>
+
+Thanks,<br></br>
+Maria<br></br>
+
+
       <h1>Assignment 2</h1>
 Hi Lonny,<br></br>
 
