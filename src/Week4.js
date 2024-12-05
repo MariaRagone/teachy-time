@@ -30,7 +30,7 @@ Hi Korey,<br></br><br></br>
 
 You forgot to include instructions on how to checker a wooden stock utilizing a decal pattern so this is the reason for the reduction in points.<br></br><br></br>
 
-There is also a late penalty of 10% per day in accordance with the SDI late policy.<br></br><br></br>
+There is a  late penalty of 10% for each day late per the SDI late policy.<br></br><br></br>
 
 Great job highlighting the importance of checker patterns on a firearm for improving its aesthetics and for enhancing the shooter's grip and control.<br></br><br></br>
 
